@@ -35,5 +35,5 @@
 
 ### 本地开发运行部署
 - 使用`MyEclipse`开发，导入打开项目即可
-- 新建`findu`数据库，执行`findu.sql`文件(已有部分服务器中数据)
+- 新建`findu`数据库，执行`findu.sql`文件(已有部分服务器中数据)，在`src/dbinfo.properties`文件中配置你的数据库连接配置
 - 配置`Tomcat`服务器，访问相应端口+项目名即可，例如 http://localhost:8080/FindU/
