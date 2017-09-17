@@ -11,13 +11,13 @@
 - [x] 个人中心模块实现了查看、删除、修改发布物品、处理申领等功能
 
     
-    ![](https://github.com/Exrick/Exrick/blob/master/pics/FindU/QQ%E6%88%AA%E5%9B%BE20170915164407.png)
+    ![](http://oweupqzdv.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20170915164407.png)
 
-    ![](https://github.com/Exrick/Exrick/blob/master/pics/FindU/QQ%E6%88%AA%E5%9B%BE20170915164458.png)
+    ![](http://oweupqzdv.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20170915164458.png)
 
-    ![](https://github.com/Exrick/Exrick/blob/master/pics/FindU/QQ%E6%88%AA%E5%9B%BE20170915164529.png)
+    ![](http://oweupqzdv.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20170915164628.png)
 
-    ![](https://github.com/Exrick/Exrick/blob/master/pics/FindU/QQ%E6%88%AA%E5%9B%BE20170915164628.png)
+    ![](http://oweupqzdv.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20170915164529.png)
     
 ### 所用技术
 
